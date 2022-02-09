@@ -1623,10 +1623,10 @@ alphanum-sort@^1.0.0:
   resolved "https://registry.yarnpkg.com/alphanum-sort/-/alphanum-sort-1.0.2.tgz#97a1119649b211ad33691d9f9f486a8ec9fbe0a3"
   integrity sha1-l6ERlkmyEa0zaR2fn0hqjsn74KM=
 
-amazon-connect-streams@^1.7.5:
-  version "1.7.5"
-  resolved "https://registry.yarnpkg.com/amazon-connect-streams/-/amazon-connect-streams-1.7.5.tgz#b670c781071d140e8b677ce8f66633c2962cfde9"
-  integrity sha512-BrE+2My8aIVaZEczur0/XqUzX/FnEmcSOsMKY5SmALxnX1paY1d0LrYjc9EQLkAJENxOIEjU2AoLiFFxzaE/7w==
+amazon-connect-streams@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/amazon-connect-streams/-/amazon-connect-streams-2.0.0.tgz#1639278557f1e56e924cd19e1e7e52c8b466d89f"
+  integrity sha512-d6PkxLg9h49aVIXL7kKPg86nQg5fgPYsffOic/T0bLWqlSwsnDCMSY3+eGXtrw9C4QPX6EFexBUgs/7KI8PD1g==
 
 ansi-colors@^3.0.0:
   version "3.2.4"
